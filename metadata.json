@@ -1,0 +1,6 @@
+{
+  "name": "MetaPulse - Facebook Ads Calculator & Performance Tracker",
+  "description": "Comprehensive Facebook Ads metrics calculator, automated campaign performance tracker, break-even ROAS simulator, and 1-click client report builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
